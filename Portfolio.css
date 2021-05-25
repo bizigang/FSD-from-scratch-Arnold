@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+   background: rgba(82, 79, 79, 0.582);
+   
+}
+#sayt{
+    width: 1100px;
+    height: 800px;
+    background: greenyellow;
+    margin: 60px auto;
+}
+#header{
+    background: grey;
+}
+.Iam{
+    margin-left: 180px;
+}
+#text{
+    width: 620px;
+    float: right;
+    height: 300px;
+    background: grey;
+    box-sizing: border-box;
+    padding: 50px;
+    color: rgb(255, 236, 236);
+
+
+}
+
+
+#content{
+    background: white;
+}
+#top{
+    background: white;
+    text-align: left;
+    padding-left: 50px;
+    
+
+}
+#good{
+    padding: 20px 0 20px 30px ;
+}
+#div{
+    float: right;
+    width: 850px;
+}
+#bottom{
+    padding-top: 20px;
+}
+.tik{
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+
+
+   
+}
+
+#footer{
+    background: yellow;
+    padding 50px;
+}
+#part{
+    float: left;
+    width: 500px;
+}
+#partA{
+    width: 500px;
+    float: right;
+}
